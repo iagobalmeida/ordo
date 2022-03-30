@@ -1,4 +1,6 @@
 # ordo
+The prototype of a complex tasks manager integrated with github.
+Might be my graduation project.
 
 ## Project setup
 ```
